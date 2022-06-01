@@ -4,4 +4,3 @@ This repository i have created as I go on the same journey, and I will use the i
 
 This will not cover all things DevOps but it will cover the areas that I feel will benefit my learning and understanding overall.  This will not cover items specific to your company and how your dev teams create software, or how your ops teams handle deployments, but more of a generic view. 
 
-- Day 1  - ## First Steps - What is DevOps?  [devops_day1](days/devops_day1.md)
