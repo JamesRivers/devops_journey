@@ -6,7 +6,8 @@ This is my journey on learning devops. In this repo I will publish all of my exp
 
 Firstly I have enrolled in `A Cloud Guru` for a lot of the training materials and yes, it is initially bias to the world of AWS and devops.
 
-I have also started to read review and understand the 90 days of devops: start here - ![devops_day1.md](days/devops_day1.md)
+I have also started to read review and understand the 90 days of devops: start here - )
+![readme.md](90daysdevops/readme.md)
 
 I also love this devops road map - https://roadmap.sh/devops, it lists the key areas that as a devops engineer I need to focus on:
 - Programming Language
